@@ -1,0 +1,33 @@
+/* src/components/Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #1f1e1e;
+    color: #fff;
+  }
+  
+  .title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .buttons-container {
+    display: flex;
+    gap: 5px;
+  }
+  
+  .button {
+    padding: 8px 16px;
+    background-color: #a13393;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #a13393;
+  }
+  

@@ -1,0 +1,72 @@
+
+  
+  table {
+    width: 70%;
+    margin: 20px auto;
+    border-collapse:collapse;
+    font-size:16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+   
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  
+  tr:hover {
+    background-color: #e2d7dd;
+  }
+  
+  
+  input[type="text"] {
+    padding: 8px;
+    margin-right: 5px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-left: 500px;
+  }
+  
+  .button1 {
+    padding: 8px 10px;
+    border-radius: 4px;
+    border: none;
+    background-color: #a13393;
+    color: white;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .button1:hover {
+    background-color: #a13393;
+  }
+  .heading{
+    font-size: 24px;
+    font-weight: 600px;
+    color:#a13393;
+  }
+  .button3{
+    padding: 8px 5px;
+    border-radius: 4px;
+    border: none;
+    background-color: #a13393;
+    color: white;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  }
+  .button2{
+    padding: 8px 10px;
+    border-radius: 4px;
+    border: none;
+    background-color: #a13393;
+    color: white;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
